@@ -1,3 +1,3 @@
-Two working documents prepared for the Pavilion / Seviora team, published as a static site: an outreach review pack (19 Sep 2026) and a Canada institutional capital map (22 Sep 2026).
+The Pavilion / Seviora outreach review pack of 19 September 2026, published as a static site. It is served both at the root and at /outreach-review-pack.html, and its data files are carried inside the page itself.
 
 To take it down: in this repository go to Settings > Pages and choose Unpublish site, or delete the repository outright.
