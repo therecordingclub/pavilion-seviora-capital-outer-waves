@@ -5,7 +5,10 @@ on one page.
 
 0. The 23 September Preqin investor export for HarbourVest Asia Pacific 5 and Pantheon Asia Fund VI,
    folded into piece 2. Seventeen rows, ten of them institutions the peer list did not have, each one
-   scored on the same ladder the universe uses.
+   scored on the same ladder the universe uses. Four corrections sit beside it: the pack's claim that
+   Sampension has no Asia private equity is withdrawn, Strathclyde moves to priority 5, six of the 17
+   cannot buy directly, and the Wales Pension Partnership and Prima AFP are added to the universe,
+   which is reissued as v3.2 with 355 names.
 1. Canada, the institutional capital map v3.0 of 22 September: 45 institutions, 30 that choose their
    own manager, 11 whose manager decides for them, 4 insurers, 22 new since the 19 September deep
    dive, none dropped. It supersedes piece 1 of v2.0, and that 19 September layer is kept in full as
